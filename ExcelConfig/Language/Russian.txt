@@ -1,0 +1,15 @@
+PRIVACY	Политика\nконфиденциальности
+TERMS	Условия\nиспользования
+ANOMALIES	
+SEARCHING	
+NO_SIGNAL	
+WARNING	
+START	
+NEXT	ДАЛЕЕ
+COMPLETE	Закончить
+GET	Получить
+ACCEPT	Accept
+OK	
+SETTINGS	НАСТРОЙКА
+HI	
+DANGER	

@@ -1,0 +1,15 @@
+PRIVACY	Política de Privacidade
+TERMS	Termos de Uso
+ANOMALIES	
+SEARCHING	
+NO_SIGNAL	
+WARNING	
+START	
+NEXT	<size=80>AVANÇAR</size>
+COMPLETE	Concluir
+GET	Pedir
+ACCEPT	Aceitar
+OK	
+SETTINGS	<size=55>CONFIGURAÇÃO</size>
+HI	
+DANGER	

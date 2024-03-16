@@ -1,0 +1,15 @@
+PRIVACY	Política de privacidad
+TERMS	Términos de uso
+ANOMALIES	
+SEARCHING	
+NO_SIGNAL	
+WARNING	
+START	
+NEXT	<size=70>SIGUIENTE</size>
+COMPLETE	Terminar
+GET	Consíguelo
+ACCEPT	Aanvaarden
+OK	
+SETTINGS	AJUSTES
+HI	
+DANGER	

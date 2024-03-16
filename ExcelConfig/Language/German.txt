@@ -1,0 +1,15 @@
+PRIVACY	<size=40>Datenschutzrichtlinie</size>
+TERMS	<size=40>Nutzungsbedingungen</size>
+ANOMALIES	
+SEARCHING	
+NO_SIGNAL	
+WARNING	
+START	
+NEXT	<size=70>WEITER</size>
+COMPLETE	Fertig
+GET	Holen
+ACCEPT	Akzeptieren
+OK	
+SETTINGS	<size=55>EINSTELLUNGEN</size>
+HI	
+DANGER	

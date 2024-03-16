@@ -1,0 +1,16 @@
+PRIVACY	隐私政策
+TERMS	用户协议
+ANOMALIES	异常点
+SEARCHING	观察中
+NO_SIGNAL	无信号
+WARNING	警告
+START	开始
+NEXT	下一关
+COMPLETE	完成
+GET	领取
+ACCEPT	接受
+OK	好的
+SETTINGS	设置
+HI	你好！
+我很好。
+DANGER	“危险”
