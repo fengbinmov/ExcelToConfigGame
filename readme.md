@@ -1,6 +1,8 @@
----
-typora-copy-images-to: ./res
----
+# ExcelToConfigGame
+
+用于将 Excel 文件转换为 Json 数据
+
+可利用 bat 或cmd 命令设定一个 Excel 文件转 json 的逻辑规则，将所有的配置文件统一指定，并处理为 json 再输出到游戏项目中
 
 ## bat 文件设定参数
 
@@ -22,7 +24,9 @@ sheetName xxx			//excel 只转换对应的Sheet组，sheet 名为 xxx
 
 在 ExcelConfig\design中可查看对应的范例
 
+## Excel 支持的模版格式
 
+更多详情查看 design 中的文件
 
 ![image-20240316184328196](./res/image-20240316184328196.png)
 
