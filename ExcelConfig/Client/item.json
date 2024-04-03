@@ -21,13 +21,7 @@
     "opui": 0,
     "op": 1,
     "flitem": 0,
-    "special": [
-      0,
-      2,
-      3,
-      4,
-      5
-    ],
+    "special": {},
     "scaling": 0,
     "rectify": {
       "x": 0,

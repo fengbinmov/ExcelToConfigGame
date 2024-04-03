@@ -20,8 +20,9 @@ sheetName xxx			//excel 只转换对应的Sheet组，sheet 名为 xxx
 
 在 ExcelConfig\design\数据配表.xlsx 文件中可查看对应的 excel 模版文件
 
-在 ExcelConfig\design中可查看对应的范例
+在 ExcelConfig\design中可查看对应的范例 
 
+[范例地址]: ./ExcelConfig/design/readme.md
 
 
 ![image-20240316184328196](./res/image-20240316184328196.png)
