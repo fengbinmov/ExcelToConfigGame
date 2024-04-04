@@ -11,7 +11,7 @@ rem jsonGroup		//excel 中存在#group 行则进行过滤，只转换与jsonGroup名字相同的列
 
 title excel to game config
 
-set sourceDirectory=%CD%/多语言
+set sourceDirectory=%CD%/多语言/multilingual.xlsx
 set targetDirectory=%CD%/../Language
 
 ExcelToConfigGame sourceDirectory %sourceDirectory% targetDirectory %targetDirectory% searchOption 1 program MultFileLanguage

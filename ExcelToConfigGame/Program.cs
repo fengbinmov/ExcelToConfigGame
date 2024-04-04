@@ -102,6 +102,9 @@ namespace ExcelToConfigGame
         string unGroupDirectory = string.Empty;
         bool unGroupOut;
         string sheetName = null;
+        string jsonType = "JArray";
+        string mainKey = string.Empty;
+        string extensions = string.Empty;
 
         StringBuilder sb_temp = new StringBuilder();
 
@@ -110,21 +113,15 @@ namespace ExcelToConfigGame
         public void Start(string[] args)
         {
             if (args != null) InputConfig(args);
-            
-            if (!(Directory.Exists(sourceDirectory) || File.Exists(sourceDirectory))) return;
-            if (!Directory.Exists(Path.GetDirectoryName(targetDirectory))) return;
 
-            if(!(Path.HasExtension(targetDirectory) && File.Exists(sourceDirectory)))
-            {
-                //targetDirectory = Path.GetDirectoryName(targetDirectory);
-            }
-
-            unGroupOut = !string.IsNullOrEmpty(jsonGroup) && Directory.Exists(unGroupDirectory);
-
-            //program = "Json";
+            //program = "UniqueCharacter";
+            //searchOption = 1;
+            //extensions = ".txt,.meta,.cs";
+            //sourceDirectory = @"E:\Code\Unity\Worker\2022\escape_urp_2024.02.04\Escpace\Assets\ResAll\xml\language\font\WordBank";
+            //targetDirectory = @"D:\C07_Code\CShape\ExcelToConfigGame\ExcelToConfigGame\bin\Debug\net8.0\signalchars.txt";
             //jsonformat = -1;
             //jsonGroup = "all";
-
+            
             switch (program)
             {
                 case "MultFileLanguage":
@@ -132,12 +129,10 @@ namespace ExcelToConfigGame
                     {
                         ExcelToMultFileLanguage(sourceDirectory);
                     }
-                    else if (Directory.Exists(sourceDirectory))
-                    {
-                        ExcelToMultFileLanguageFromDir(sourceDirectory);
-                    }
                     break;
                 case "Json":
+                    unGroupOut = !string.IsNullOrEmpty(jsonGroup) && Directory.Exists(unGroupDirectory);
+
                     if (File.Exists(sourceDirectory))
                     {
                         ExcelToJson(sourceDirectory);
@@ -147,10 +142,15 @@ namespace ExcelToConfigGame
                         ExcelToJsonFromDir(sourceDirectory);
                     }
                     break;
+                case "UniqueCharacter":
+                    FileToUniqueCharacterFile(sourceDirectory);
+                    break;
                 default:
                     break;
             }
         }
+
+        #region Excel to Json
 
         void ExcelToJsonFromDir(string sourceDirectory_) {
 
@@ -183,10 +183,12 @@ namespace ExcelToConfigGame
 
             StringBuilder sb = new StringBuilder();
 
-            sb.Append('[');
+            bool isJArray = jsonType.Equals("JArray");
+            int mainKeyIndex = -1;
+
+            sb.Append(isJArray ? '[' : '{');
             bool one = false;
             bool uintext = true;
-            bool unGroupOuted = false;
 
             foreach (var data in dataList)
             {
@@ -204,6 +206,16 @@ namespace ExcelToConfigGame
                             for (int i = 1; i < item.Length; i++)
                             {
                                 keywords[keywords.Count-1][i-1] = (string)item[i];
+
+                                if (!isJArray && mainKeyIndex == -1 && (((string)item[i]).Equals(mainKey))) 
+                                {
+                                    mainKeyIndex = i;
+                                }
+                            }
+                            if (!isJArray && mainKeyIndex < 0)
+                            {
+                                Console.WriteLine($"Error JsonType is JArray but not find mainkey \"{mainKey}\"");
+                                return;
                             }
                             break;
                         case "#type":
@@ -226,7 +238,7 @@ namespace ExcelToConfigGame
                     continue;
                 }
 
-                if (keywords.Count == 0) { throw new Exception($"#keyword 未被发现 Path:{filePath}"); return; }
+                if (keywords.Count == 0) { Console.WriteLine($"#keyword 未被发现 Path:{filePath}"); return; }
 
                 if (one) sb.Append(',');
 
@@ -239,7 +251,6 @@ namespace ExcelToConfigGame
 
                     if (groups.Count == 0 && unGroupOut)
                     {
-                        unGroupOuted = true;
                         groupsValid = new bool[keywordValue.Length];
                         for (int i = 0; i < groupsValid.Length; i++) groupsValid[i] = true;
                     }
@@ -249,6 +260,11 @@ namespace ExcelToConfigGame
                         Console.WriteLine($"---- [{++FileNow},{FileCount}]");
                         return;
                     }
+                }
+
+                if (!isJArray)
+                {
+                    sb.Append($"\"{item[mainKeyIndex]}\":");
                 }
 
                 sb.Append('{');
@@ -270,13 +286,21 @@ namespace ExcelToConfigGame
                 sb.Append('}');
                 one = true;
             }
-            sb.Append(']');
+
+            sb.Append(isJArray ? ']' : '}');
 
             string jsontxt = sb.ToString();
 
             if (jsonformat >= 0)
             {
-                jsontxt = JArray.Parse(jsontxt).ToString(jsonformat == 0 ? Newtonsoft.Json.Formatting.None : Newtonsoft.Json.Formatting.Indented);
+                if (isJArray)
+                {
+                    jsontxt = JArray.Parse(jsontxt).ToString(jsonformat == 0 ? Newtonsoft.Json.Formatting.None : Newtonsoft.Json.Formatting.Indented);
+                }
+                else
+                {
+                    jsontxt = JObject.Parse(jsontxt).ToString(jsonformat == 0 ? Newtonsoft.Json.Formatting.None : Newtonsoft.Json.Formatting.Indented);
+                }
             }
 
             string fileName = Path.HasExtension(targetDirectory) ? Path.GetFileNameWithoutExtension(targetDirectory) : Path.GetFileNameWithoutExtension(filePath);
@@ -440,17 +464,9 @@ namespace ExcelToConfigGame
             }
         }
 
-        void ExcelToMultFileLanguageFromDir(string sourceDirectory_) 
-        {
-            string[] filePaths = Directory.GetFiles(sourceDirectory_, "*.xlsx", SearchOption);
+        #endregion
 
-            FileCount = filePaths.Length;
-            FileNow = 0;
-
-            Console.WriteLine($"\nMultFileLanguage [{FileNow},{FileCount}]:");
-
-            for (int i = 0; i < filePaths.Length; i++) ExcelToMultFileLanguage(filePaths[i]);
-        }
+        #region Excel to MultFileLanguage
 
         void ExcelToMultFileLanguage(string filePath)
         {
@@ -534,6 +550,89 @@ namespace ExcelToConfigGame
             Console.WriteLine($"转换成功 {filename}");
         }
 
+        #endregion
+
+        #region MulFile to UniqueCharacter File
+
+        void FileToUniqueCharacterFile(string filePaths_) {
+
+            string[] paths = filePaths_.Split("::", StringSplitOptions.RemoveEmptyEntries);
+
+            List<string> filePaths = new List<string>();
+
+            List<string> extension = new List<string>() { 
+                ".txt",
+                ".xml",
+                ".json",
+                ".yml"
+            };
+
+            if (!string.IsNullOrEmpty(extensions))
+            {
+                extension.Clear();
+
+                var exts = extensions.Split(',',StringSplitOptions.RemoveEmptyEntries);
+
+                foreach (var ext in exts) { extension.Add(ext); }
+            }
+
+            foreach (var item in paths)
+            {
+                if (Directory.Exists(item))
+                {
+                    var files = Directory.GetFiles(item,"*.*", SearchOption);
+
+                    for (int i = 0; i < files.Length; i++)
+                    {
+                        if (!extension.Contains(Path.GetExtension(files[i]))) continue;
+
+                        filePaths.Add(files[i]);
+                    }
+                }
+                else if (File.Exists(item))
+                {
+                    if (!extension.Contains(Path.GetExtension(item))) continue;
+
+                    filePaths.Add(item);
+                }
+            }
+
+            List<char> chars = new List<char>();
+
+            StringBuilder sb = new StringBuilder();
+
+            Console.WriteLine("找到文件"+filePaths.Count);
+
+            for (int n = 0; n < filePaths.Count; n++)
+            {
+                var text = File.ReadAllText(filePaths[n]);
+                int count = 0;
+                for (int i = 0; i < text.Length; i++)
+                {
+                    char c = text[i];
+
+                    if (!chars.Contains(c))
+                    {
+                        chars.Add(c);
+                        count++;
+                    }
+                }
+
+                Console.WriteLine($"已读取文件:[{n + 1},{filePaths.Count}] -[char,{count}] {Path.GetFileName(filePaths[n])}");
+            }
+
+            chars.Sort();
+
+            for (int i = 0; i < chars.Count; i++)
+            {
+                sb.Append(chars[i]);
+            }
+
+            File.WriteAllText(targetDirectory, sb.ToString(),Encoding.UTF8);
+
+            Console.WriteLine($"已将所有字符写入文件 [char,{sb.Length}]" + targetDirectory);
+        }
+        #endregion
         void InputConfig(string[] args)
         {
             var list = args.ToList();
@@ -650,6 +749,42 @@ namespace ExcelToConfigGame
                     if ((i + 1) < list.Count)
                     {
                         sheetName = list[i + 1];
+                        list.RemoveAt(i + 1);
+                        list.RemoveAt(i);
+                        i--;
+                        continue;
+                    }
+                }
+
+                if (list[i].Equals("jsonType"))
+                {
+                    if ((i + 1) < list.Count)
+                    {
+                        jsonType = list[i + 1];
+                        list.RemoveAt(i + 1);
+                        list.RemoveAt(i);
+                        i--;
+                        continue;
+                    }
+                }
+
+                if (list[i].Equals("mainkey"))
+                {
+                    if ((i + 1) < list.Count)
+                    {
+                        mainKey = list[i + 1];
+                        list.RemoveAt(i + 1);
+                        list.RemoveAt(i);
+                        i--;
+                        continue;
+                    }
+                }
+
+                if (list[i].Equals("extensions"))
+                {
+                    if ((i + 1) < list.Count)
+                    {
+                        extensions = list[i + 1];
                         list.RemoveAt(i + 1);
                         list.RemoveAt(i);
                         i--;
