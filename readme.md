@@ -28,7 +28,7 @@ mainkey xxx				//JObject 的主键定义
 
 在 ExcelConfig\design\数据配表.xlsx 文件中可查看对应的 excel 模版文件
 
-在 ExcelConfig\design中可查看对应的范例  <a href="./ExcelConfig/design/readme.md">范例地址</a>
+在 ExcelConfig\design中可查看对应的范例  <a href="./ExcelConfig/design">范例地址</a>
 
 
 
