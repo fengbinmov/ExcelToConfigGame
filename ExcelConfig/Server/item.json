@@ -1,0 +1,2388 @@
+[
+  {
+    "ID": 1000,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1020,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1023,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1024,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1025,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1027,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1028,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1031,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1032,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1033,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1034,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1035,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1037,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1040,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1041,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1042,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1043,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1044,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1045,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1046,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1048,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1049,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1050,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1051,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1052,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1053,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1054,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1055,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1056,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1057,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1058,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1060,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1083,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1084,
+    "handprop": 7,
+    "holdonetype": 1,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 1,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1085,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1087,
+    "handprop": 7,
+    "holdonetype": 1,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 1,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1088,
+    "handprop": 7,
+    "holdonetype": 1,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 1,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1112,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1114,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1115,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1116,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1117,
+    "handprop": 5,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1118,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1119,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1120,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1121,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1123,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1127,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1128,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1129,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1130,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1133,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1135,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1137,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1138,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1140,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1142,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1143,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1144,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1145,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1146,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1147,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1148,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1149,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1150,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1151,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1152,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1153,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1154,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1155,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1173,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1175,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1177,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1178,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1179,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1180,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1181,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1183,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1184,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1241,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1242,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1243,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1244,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1245,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1246,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1248,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1249,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1250,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1253,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1255,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1256,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1257,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1258,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1260,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1261,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1262,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1264,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1266,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1267,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1268,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1269,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1270,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1271,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1272,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1273,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1274,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1275,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1276,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1277,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1278,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1279,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1281,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1284,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1285,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1286,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1293,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1296,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1297,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1298,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1299,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1300,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1301,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1302,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1303,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1304,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1305,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1306,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1307,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1308,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [
+      4
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1309,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [
+      4
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1310,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [
+      3
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1311,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [
+      2
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1312,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [
+      1
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1313,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "extend": [
+      0
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1327,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1328,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1329,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1330,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1331,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1332,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1333,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1334,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1335,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1336,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1337,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1338,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1339,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1340,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1341,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1342,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1345,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1347,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1350,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1351,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1352,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1353,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1378,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1379,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -22.25,
+            0.12,
+            4.2
+          ],
+          "rot": [
+            0.0,
+            180.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -22.25,
+            0.02,
+            3.25
+          ],
+          "rot": [
+            0.0,
+            180.0,
+            0.0
+          ]
+        }
+      }
+    },
+    "clue": 0
+  },
+  {
+    "ID": 1380,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1381,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1382,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -40.39,
+            0.12,
+            14.59
+          ],
+          "rot": [
+            0.0,
+            270.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -41.33,
+            0.02,
+            14.59
+          ],
+          "rot": [
+            0,
+            270,
+            0
+          ]
+        }
+      }
+    },
+    "clue": 0
+  },
+  {
+    "ID": 1383,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1384,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -44.51,
+            0.12,
+            5.24
+          ],
+          "rot": [
+            0.0,
+            90.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -43.57,
+            0.02,
+            5.24
+          ],
+          "rot": [
+            0.0,
+            90.0,
+            0.0
+          ]
+        }
+      }
+    },
+    "clue": 0
+  },
+  {
+    "ID": 1385,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1386,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -36.14,
+            0.12,
+            -0.22
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -36.14,
+            0.02,
+            0.72
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    "clue": 0
+  },
+  {
+    "ID": 1389,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1390,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1391,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1392,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1393,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1394,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1395,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1396,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [
+      -1
+    ],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1397,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1398,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1410,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1416,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1417,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1418,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1419,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1420,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1421,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1422,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1423,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1424,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1425,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1426,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1427,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1428,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1464,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1465,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1466,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 130001
+  },
+  {
+    "ID": 1467,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 130002
+  },
+  {
+    "ID": 1468,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 130003
+  },
+  {
+    "ID": 1470,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 130005
+  },
+  {
+    "ID": 1471,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 130006
+  },
+  {
+    "ID": 1472,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1473,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1474,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1475,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1476,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1477,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1478,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1479,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  },
+  {
+    "ID": 1480,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "extend": [],
+    "special": {},
+    "clue": 0
+  }
+]

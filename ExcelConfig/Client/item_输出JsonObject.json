@@ -1,0 +1,7268 @@
+{
+  "1000": {
+    "ID": 1000,
+    "name": 100000,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4115,
+        "state": 1
+      },
+      {
+        "id": 4115,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1020": {
+    "ID": 1020,
+    "name": 100020,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1023": {
+    "ID": 1023,
+    "name": 100023,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1024": {
+    "ID": 1024,
+    "name": 100024,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1025": {
+    "ID": 1025,
+    "name": 100025,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1027": {
+    "ID": 1027,
+    "name": 100027,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1028": {
+    "ID": 1028,
+    "name": 100028,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1031": {
+    "ID": 1031,
+    "name": 100031,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1032": {
+    "ID": 1032,
+    "name": 100032,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1033": {
+    "ID": 1033,
+    "name": 100033,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1034": {
+    "ID": 1034,
+    "name": 100034,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 50,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1035": {
+    "ID": 1035,
+    "name": 100035,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1037": {
+    "ID": 1037,
+    "name": 100037,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1040": {
+    "ID": 1040,
+    "name": 100040,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1041": {
+    "ID": 1041,
+    "name": 100041,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1042": {
+    "ID": 1042,
+    "name": 100042,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1043": {
+    "ID": 1043,
+    "name": 100043,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1044": {
+    "ID": 1044,
+    "name": 100044,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1045": {
+    "ID": 1045,
+    "name": 100045,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1046": {
+    "ID": 1046,
+    "name": 100046,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1048": {
+    "ID": 1048,
+    "name": 100048,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1049": {
+    "ID": 1049,
+    "name": 100049,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1050": {
+    "ID": 1050,
+    "name": 100050,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1051": {
+    "ID": 1051,
+    "name": 100051,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1052": {
+    "ID": 1052,
+    "name": 100052,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1053": {
+    "ID": 1053,
+    "name": 100053,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1054": {
+    "ID": 1054,
+    "name": 100054,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1055": {
+    "ID": 1055,
+    "name": 100055,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1056": {
+    "ID": 1056,
+    "name": 100056,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1057": {
+    "ID": 1057,
+    "name": 100057,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1058": {
+    "ID": 1058,
+    "name": 100058,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4115,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 3475,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1060": {
+    "ID": 1060,
+    "name": 100060,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4115,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 3470,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1083": {
+    "ID": 1083,
+    "name": 100083,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1084": {
+    "ID": 1084,
+    "name": 100084,
+    "handprop": 7,
+    "holdonetype": 1,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 1,
+    "edge": [
+      {
+        "id": 5300,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 1,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.6,
+      "rg": 0.5,
+      "rt": 0.6
+    }
+  },
+  "1085": {
+    "ID": 1085,
+    "name": 100085,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1087": {
+    "ID": 1087,
+    "name": 100087,
+    "handprop": 7,
+    "holdonetype": 1,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 1,
+    "edge": [
+      {
+        "id": 5300,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 1,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.6,
+      "rg": 0.5,
+      "rt": 0.6
+    }
+  },
+  "1088": {
+    "ID": 1088,
+    "name": 100088,
+    "handprop": 7,
+    "holdonetype": 1,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 1,
+    "edge": [
+      {
+        "id": 5300,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 1,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.6,
+      "rg": 0.5,
+      "rt": 0.6
+    }
+  },
+  "1112": {
+    "ID": 1112,
+    "name": 100112,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1114": {
+    "ID": 1114,
+    "name": 100114,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1115": {
+    "ID": 1115,
+    "name": 100115,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1116": {
+    "ID": 1116,
+    "name": 100116,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1117": {
+    "ID": 1117,
+    "name": 100117,
+    "handprop": 5,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4115,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 4090,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1118": {
+    "ID": 1118,
+    "name": 100118,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1119": {
+    "ID": 1119,
+    "name": 100119,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1120": {
+    "ID": 1120,
+    "name": 100120,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1121": {
+    "ID": 1121,
+    "name": 100121,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1123": {
+    "ID": 1123,
+    "name": 100123,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1127": {
+    "ID": 1127,
+    "name": 100127,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1128": {
+    "ID": 1128,
+    "name": 100128,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1129": {
+    "ID": 1129,
+    "name": 100129,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1130": {
+    "ID": 1130,
+    "name": 100130,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1133": {
+    "ID": 1133,
+    "name": 100133,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1135": {
+    "ID": 1135,
+    "name": 100135,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1137": {
+    "ID": 1137,
+    "name": 100137,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1138": {
+    "ID": 1138,
+    "name": 100138,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1140": {
+    "ID": 1140,
+    "name": 100140,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1142": {
+    "ID": 1142,
+    "name": 100142,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1143": {
+    "ID": 1143,
+    "name": 100143,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1144": {
+    "ID": 1144,
+    "name": 100144,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1145": {
+    "ID": 1145,
+    "name": 100145,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1146": {
+    "ID": 1146,
+    "name": 100146,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1147": {
+    "ID": 1147,
+    "name": 100147,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1148": {
+    "ID": 1148,
+    "name": 100148,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1149": {
+    "ID": 1149,
+    "name": 100149,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1150": {
+    "ID": 1150,
+    "name": 100150,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {},
+    "pos": {},
+    "clue": 0,
+    "handValue": {}
+  },
+  "1151": {
+    "ID": 1151,
+    "name": 100151,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {},
+    "pos": {},
+    "clue": 0,
+    "handValue": {}
+  },
+  "1152": {
+    "ID": 1152,
+    "name": 100152,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1153": {
+    "ID": 1153,
+    "name": 100153,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1154": {
+    "ID": 1154,
+    "name": 100154,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1155": {
+    "ID": 1155,
+    "name": 100155,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1173": {
+    "ID": 1173,
+    "name": 100173,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1175": {
+    "ID": 1175,
+    "name": 100175,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 1030,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 2082,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1177": {
+    "ID": 1177,
+    "name": 100177,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 1030,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 2082,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1178": {
+    "ID": 1178,
+    "name": 100178,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 1030,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 2082,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1179": {
+    "ID": 1179,
+    "name": 100179,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 1030,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 2082,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1180": {
+    "ID": 1180,
+    "name": 100180,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 1030,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 2082,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1181": {
+    "ID": 1181,
+    "name": 100181,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 1030,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 2082,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 130,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1183": {
+    "ID": 1183,
+    "name": 100183,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1184": {
+    "ID": 1184,
+    "name": 100184,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1241": {
+    "ID": 1241,
+    "name": 100241,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1242": {
+    "ID": 1242,
+    "name": 100242,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [
+      {
+        "id": 4050,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1243": {
+    "ID": 1243,
+    "name": 100243,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [
+      {
+        "id": 4050,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1244": {
+    "ID": 1244,
+    "name": 100244,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [
+      {
+        "id": 4050,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1245": {
+    "ID": 1245,
+    "name": 100245,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1246": {
+    "ID": 1246,
+    "name": 100246,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1248": {
+    "ID": 1248,
+    "name": 100248,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1249": {
+    "ID": 1249,
+    "name": 100249,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1250": {
+    "ID": 1250,
+    "name": 100250,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1253": {
+    "ID": 1253,
+    "name": 100253,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4050,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 9999,
+        "state": 2
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1255": {
+    "ID": 1255,
+    "name": 100255,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1256": {
+    "ID": 1256,
+    "name": 100256,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1257": {
+    "ID": 1257,
+    "name": 100257,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1258": {
+    "ID": 1258,
+    "name": 100258,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1260": {
+    "ID": 1260,
+    "name": 100260,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1261": {
+    "ID": 1261,
+    "name": 100261,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1262": {
+    "ID": 1262,
+    "name": 100262,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1264": {
+    "ID": 1264,
+    "name": 100264,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1266": {
+    "ID": 1266,
+    "name": 100266,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1267": {
+    "ID": 1267,
+    "name": 100267,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1268": {
+    "ID": 1268,
+    "name": 100268,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {}
+  },
+  "1269": {
+    "ID": 1269,
+    "name": 100269,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {}
+  },
+  "1270": {
+    "ID": 1270,
+    "name": 100270,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1271": {
+    "ID": 1271,
+    "name": 100271,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1272": {
+    "ID": 1272,
+    "name": 100272,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1273": {
+    "ID": 1273,
+    "name": 100273,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1274": {
+    "ID": 1274,
+    "name": 100274,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4095,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 4309,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1275": {
+    "ID": 1275,
+    "name": 100275,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1276": {
+    "ID": 1276,
+    "name": 100276,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1277": {
+    "ID": 1277,
+    "name": 100277,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1278": {
+    "ID": 1278,
+    "name": 100278,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1279": {
+    "ID": 1279,
+    "name": 100279,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1281": {
+    "ID": 1281,
+    "name": 100281,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1284": {
+    "ID": 1284,
+    "name": 100284,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1285": {
+    "ID": 1285,
+    "name": 100285,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4096,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 4309,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1286": {
+    "ID": 1286,
+    "name": 100286,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4096,
+        "state": 1
+      }
+    ],
+    "edgeend": [
+      {
+        "id": 4309,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1293": {
+    "ID": 1293,
+    "name": 100293,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1296": {
+    "ID": 1296,
+    "name": 100296,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1297": {
+    "ID": 1297,
+    "name": 100297,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4096,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1298": {
+    "ID": 1298,
+    "name": 100298,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1299": {
+    "ID": 1299,
+    "name": 100299,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1300": {
+    "ID": 1300,
+    "name": 100300,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1301": {
+    "ID": 1301,
+    "name": 100301,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1302": {
+    "ID": 1302,
+    "name": 100302,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1303": {
+    "ID": 1303,
+    "name": 100303,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1304": {
+    "ID": 1304,
+    "name": 100304,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1305": {
+    "ID": 1305,
+    "name": 100305,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1306": {
+    "ID": 1306,
+    "name": 100306,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4096,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1307": {
+    "ID": 1307,
+    "name": 100307,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1308": {
+    "ID": 1308,
+    "name": 100308,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [
+      4
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1309": {
+    "ID": 1309,
+    "name": 100309,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [
+      4
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1310": {
+    "ID": 1310,
+    "name": 100310,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [
+      3
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1311": {
+    "ID": 1311,
+    "name": 100311,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [
+      2
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1312": {
+    "ID": 1312,
+    "name": 100312,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [
+      1
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1313": {
+    "ID": 1313,
+    "name": 100313,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 1,
+    "regular": 1,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [
+      0
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1327": {
+    "ID": 1327,
+    "name": 100327,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1328": {
+    "ID": 1328,
+    "name": 100328,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1329": {
+    "ID": 1329,
+    "name": 100329,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1330": {
+    "ID": 1330,
+    "name": 100330,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1331": {
+    "ID": 1331,
+    "name": 100331,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1332": {
+    "ID": 1332,
+    "name": 100332,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1333": {
+    "ID": 1333,
+    "name": 100333,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1334": {
+    "ID": 1334,
+    "name": 100334,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1335": {
+    "ID": 1335,
+    "name": 100335,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4096,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1336": {
+    "ID": 1336,
+    "name": 100336,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4096,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1337": {
+    "ID": 1337,
+    "name": 100337,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [
+      {
+        "id": 4096,
+        "state": 1
+      }
+    ],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1338": {
+    "ID": 1338,
+    "name": 100338,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1339": {
+    "ID": 1339,
+    "name": 100339,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1340": {
+    "ID": 1340,
+    "name": 100340,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1341": {
+    "ID": 1341,
+    "name": 100341,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1342": {
+    "ID": 1342,
+    "name": 100342,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1345": {
+    "ID": 1345,
+    "name": 100345,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1347": {
+    "ID": 1347,
+    "name": 100347,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1350": {
+    "ID": 1350,
+    "name": 100350,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [
+      {
+        "id": 4310,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1351": {
+    "ID": 1351,
+    "name": 100351,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [
+      {
+        "id": 4310,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1352": {
+    "ID": 1352,
+    "name": 100352,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [
+      {
+        "id": 4310,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1353": {
+    "ID": 1353,
+    "name": 100353,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [
+      {
+        "id": 4310,
+        "state": 1
+      }
+    ],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1378": {
+    "ID": 1378,
+    "name": 100378,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {},
+    "pos": {},
+    "clue": 0,
+    "handValue": {}
+  },
+  "1379": {
+    "ID": 1379,
+    "name": 100379,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -22.25,
+            0.12,
+            4.2
+          ],
+          "rot": [
+            0.0,
+            180.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -22.25,
+            0.02,
+            3.25
+          ],
+          "rot": [
+            0.0,
+            180.0,
+            0.0
+          ]
+        }
+      }
+    },
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1380": {
+    "ID": 1380,
+    "name": 100380,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1381": {
+    "ID": 1381,
+    "name": 100381,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1382": {
+    "ID": 1382,
+    "name": 100382,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -40.39,
+            0.12,
+            14.59
+          ],
+          "rot": [
+            0.0,
+            270.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -41.33,
+            0.02,
+            14.59
+          ],
+          "rot": [
+            0,
+            270,
+            0
+          ]
+        }
+      }
+    },
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1383": {
+    "ID": 1383,
+    "name": 100383,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1384": {
+    "ID": 1384,
+    "name": 100384,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -44.51,
+            0.12,
+            5.24
+          ],
+          "rot": [
+            0.0,
+            90.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -43.57,
+            0.02,
+            5.24
+          ],
+          "rot": [
+            0.0,
+            90.0,
+            0.0
+          ]
+        }
+      }
+    },
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1385": {
+    "ID": 1385,
+    "name": 100385,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1386": {
+    "ID": 1386,
+    "name": 100386,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {
+      "container": {
+        "in": {
+          "pos": [
+            -36.14,
+            0.12,
+            -0.22
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        },
+        "out": {
+          "pos": [
+            -36.14,
+            0.02,
+            0.72
+          ],
+          "rot": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      }
+    },
+    "scaling": 110,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1389": {
+    "ID": 1389,
+    "name": 100389,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1390": {
+    "ID": 1390,
+    "name": 100390,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1391": {
+    "ID": 1391,
+    "name": 100391,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1392": {
+    "ID": 1392,
+    "name": 100392,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1393": {
+    "ID": 1393,
+    "name": 100393,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1394": {
+    "ID": 1394,
+    "name": 100394,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1395": {
+    "ID": 1395,
+    "name": 100395,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1396": {
+    "ID": 1396,
+    "name": 100396,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [
+      -1
+    ],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1397": {
+    "ID": 1397,
+    "name": 100397,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1398": {
+    "ID": 1398,
+    "name": 100398,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1410": {
+    "ID": 1410,
+    "name": 100410,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1416": {
+    "ID": 1416,
+    "name": 100416,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1417": {
+    "ID": 1417,
+    "name": 100417,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1418": {
+    "ID": 1418,
+    "name": 100418,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1419": {
+    "ID": 1419,
+    "name": 100419,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1420": {
+    "ID": 1420,
+    "name": 100420,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1421": {
+    "ID": 1421,
+    "name": 100421,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1422": {
+    "ID": 1422,
+    "name": 100422,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1423": {
+    "ID": 1423,
+    "name": 100423,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1424": {
+    "ID": 1424,
+    "name": 100424,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1425": {
+    "ID": 1425,
+    "name": 100425,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1426": {
+    "ID": 1426,
+    "name": 100426,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1427": {
+    "ID": 1427,
+    "name": 100427,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1428": {
+    "ID": 1428,
+    "name": 100428,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1464": {
+    "ID": 1464,
+    "name": 100464,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1465": {
+    "ID": 1465,
+    "name": 100465,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1466": {
+    "ID": 1466,
+    "name": 100466,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 130001,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1467": {
+    "ID": 1467,
+    "name": 100467,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 130002,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1468": {
+    "ID": 1468,
+    "name": 100468,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 130003,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1470": {
+    "ID": 1470,
+    "name": 100470,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 130005,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1471": {
+    "ID": 1471,
+    "name": 100471,
+    "handprop": 7,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 1,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 130006,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1472": {
+    "ID": 1472,
+    "name": 100472,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1473": {
+    "ID": 1473,
+    "name": 100473,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1474": {
+    "ID": 1474,
+    "name": 100474,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1475": {
+    "ID": 1475,
+    "name": 100475,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0.5,
+      "lt": 0.4,
+      "rg": 0.5,
+      "rt": 0.4
+    }
+  },
+  "1476": {
+    "ID": 1476,
+    "name": 100476,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 0,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1477": {
+    "ID": 1477,
+    "name": 100477,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 1,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1478": {
+    "ID": 1478,
+    "name": 100478,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 1,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1479": {
+    "ID": 1479,
+    "name": 100479,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 1,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  },
+  "1480": {
+    "ID": 1480,
+    "name": 100480,
+    "handprop": 0,
+    "holdonetype": 0,
+    "holdstay": 0,
+    "regular": 0,
+    "handlock": 0,
+    "edge": [],
+    "edgeend": [],
+    "opui": 0,
+    "op": 0,
+    "flitem": 1,
+    "extend": [],
+    "special": {},
+    "scaling": 0,
+    "rectify": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "clue": 0,
+    "handValue": {
+      "lg": 0,
+      "lt": 0,
+      "rg": 0,
+      "rt": 0
+    }
+  }
+}

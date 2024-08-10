@@ -1,0 +1,15 @@
+PRIVACY	<size=40>นโยบายความเป็นส่วนตัว</size>
+TERMS	<size=40>ข้อตกลงการใช้งาน</size>
+ANOMALIES	
+SEARCHING	
+NO_SIGNAL	
+WARNING	
+START	
+NEXT	ถัดไป
+COMPLETE	เสร็จสิ้น
+GET	รับ
+ACCEPT	Accept
+OK	
+SETTINGS	<size=60>การตั้งค่า</size>
+HI	
+DANGER	

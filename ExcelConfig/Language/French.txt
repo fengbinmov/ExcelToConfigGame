@@ -1,0 +1,15 @@
+PRIVACY	Politique de \nconfidentialité
+TERMS	Conditions \nd'utilisation
+ANOMALIES	
+SEARCHING	
+NO_SIGNAL	
+WARNING	
+START	
+NEXT	<size=70>SUIVANT</size>
+COMPLETE	Terminer
+GET	Recevoir
+ACCEPT	J'accepte
+OK	
+SETTINGS	<size=55>PARAMÈTRES</size>
+HI	
+DANGER	

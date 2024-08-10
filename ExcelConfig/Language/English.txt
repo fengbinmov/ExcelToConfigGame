@@ -1,0 +1,16 @@
+PRIVACY	Privacy policy
+TERMS	Terms of use
+ANOMALIES	Anomalies
+SEARCHING	Searching
+NO_SIGNAL	No Signal
+WARNING	Warning
+START	Start
+NEXT	Next
+COMPLETE	Completed
+GET	Get
+ACCEPT	Accept
+OK	OK
+SETTINGS	SETTINGS
+HI	Hello!
+I'm fine.
+DANGER	"Danger"
