@@ -107,6 +107,7 @@ namespace ExcelToConfigGame
         string extensions = string.Empty;
         string startCell = "A1";
         string endCell = string.Empty;
+        bool deleInsert = true;
 
         StringBuilder sb_temp = new StringBuilder();
 
@@ -224,8 +225,8 @@ namespace ExcelToConfigGame
                             }
                             if (!isJArray && mainKeyIndex < 0)
                             {
-                                Console.WriteLine($"Error JsonType is JArray but not find mainkey \"{mainKey}\"");
-                                return;
+                                //Console.WriteLine($"Error JsonType is JArray but not find mainkey \"{mainKey}\"");
+                                //return;
                             }
                             break;
                         case "#type":
@@ -272,12 +273,12 @@ namespace ExcelToConfigGame
                     }
                 }
 
-                if (!isJArray)
+                if (!isJArray && mainKeyIndex >= 0)
                 {
                     sb.Append($"\"{item[mainKeyIndex]}\":");
                 }
 
-                sb.Append('{');
+                if(isJArray || mainKeyIndex >= 0) sb.Append('{');
 
                 bool appedlined = false;
                 for (int i = 1; i < item.Length; i++)
@@ -293,7 +294,7 @@ namespace ExcelToConfigGame
                     appedlined = true;
 
                 }
-                sb.Append('}');
+                if (isJArray || mainKeyIndex >= 0) sb.Append('}');
                 one = true;
             }
 
@@ -406,6 +407,8 @@ namespace ExcelToConfigGame
                         return $"{(obj == null ? "{}" : obj)}";
                     case "array":
                         return $"[{(obj == null ? string.Empty : obj.ToString().Replace(';',','))}]";
+                    case "insert":
+                        return GetInsert(obj);
                     default:
                         return $"\"{obj}\"";
                 }
@@ -476,6 +479,24 @@ namespace ExcelToConfigGame
 
                 return $"\"{obj}\"";
             }
+        }
+
+        string GetInsert(object obj)
+        {
+            if (obj is string path)
+            {
+                path = Path.Combine(Path.GetDirectoryName(targetDirectory), Path.GetFileNameWithoutExtension(path))+ ".json";
+                var txt = File.ReadAllText(path);
+
+                if (deleInsert)
+                {
+                    File.Delete(path);
+                }
+
+                return txt;
+            }
+
+            return "{}";
         }
 
         #endregion
@@ -823,6 +844,18 @@ namespace ExcelToConfigGame
                     if ((i + 1) < list.Count)
                     {
                         endCell = list[i + 1];
+                        list.RemoveAt(i + 1);
+                        list.RemoveAt(i);
+                        i--;
+                        continue;
+                    }
+                }
+
+                if (list[i].Equals("deleInsert"))
+                {
+                    if ((i + 1) < list.Count)
+                    {
+                        bool.TryParse(list[i + 1],out deleInsert);
                         list.RemoveAt(i + 1);
                         list.RemoveAt(i);
                         i--;

@@ -1,0 +1,60 @@
+{
+  "formId": 20260101,
+  "info": {
+    "title": "你可能喜欢的搜索",
+    "description": "开发 Google 表单解决方案。 提升 Google 表单体验 使用 插件 插入由您的账号数据或外部服务提供支持的互动内容。"
+  },
+  "reward": [
+    100,
+    100,
+    200,
+    300
+  ],
+  "items": [
+    {
+      "Id": 1,
+      "title": "单选",
+      "questionType": 1,
+      "questionItem": [
+        "红色",
+        "蓝色"
+      ]
+    },
+    {
+      "Id": 2,
+      "title": "多选",
+      "questionType": 2,
+      "questionItem": [
+        "手枪",
+        "散弹",
+        "步枪"
+      ]
+    },
+    {
+      "Id": 3,
+      "title": "排序",
+      "questionType": 3,
+      "questionItem": [
+        "苹果",
+        "香蕉",
+        "菠萝",
+        "桃子"
+      ]
+    },
+    {
+      "Id": 4,
+      "title": "量选择",
+      "questionType": 4,
+      "questionItem": [
+        0,
+        5
+      ]
+    },
+    {
+      "Id": 5,
+      "title": "单项填空",
+      "questionType": 5,
+      "questionItem": []
+    }
+  ]
+}
