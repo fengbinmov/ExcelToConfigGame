@@ -401,7 +401,7 @@ namespace ExcelToConfigGame
                     case "short":
                     case "byte":
                     case "bool":
-                        return $"{(obj == null ? 0 : obj)}";
+                        return $"{(obj == null ? 0 : obj.ToString().ToLower())}";
                     case "object":
                     case "json":
                         return $"{(obj == null ? "{}" : obj)}";
